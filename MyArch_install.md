@@ -4,7 +4,9 @@
 #  一、环境
 > 
 <u>Win10 + VirtualBox5.1.10 + Xshell5
+
 `archlinux-2016.12.01-dual.iso`  
+
 **联网**</u>
 
 # 二、安装准备
